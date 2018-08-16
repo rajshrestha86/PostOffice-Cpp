@@ -1,0 +1,6 @@
+admin admin admin admin aaaa aaaa aaaa 987654321 admin
+editor editor admin admin aaaa aaaa aaaa 987654321 admin      
+raj shrestha raj shrestha buspark kathmandu bagmati 90909087654 admin
+sabin15 shrestha sabin shrestha asd asd bagmati 9802345456 editor
+mail mail admin admin aaaa aaaa aaaa 987654321 mailmaster 
+

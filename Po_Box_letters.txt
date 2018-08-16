@@ -1,0 +1,34 @@
+PO BOX
+Receiver Name: 
+Address: 
+Ward No:
+Sender Name:
+Address:
+
+20001
+Sabin Shrestha
+Kumarigal, Chabhel
+5
+Sujjet KC
+US Texas
+
+20000
+Raj Shrestha
+Gongabu
+5
+Sujjet KC
+US Texas
+
+20000
+Rajiv Sah
+Gongabu
+15
+Sujjet KC
+US Texas
+
+20002
+Rajiv Sah
+Gongabu
+15
+Sujjet KC
+US Texas

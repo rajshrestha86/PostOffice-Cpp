@@ -1,0 +1,17 @@
+receiver name
+address
+9999
+sender
+address
+
+Raj Shrestha
+gongabu , 223
+5
+Sabin Shrestha
+Nepal Kumarigal,Kathmandu
+
+prtik
+bhaktapur
+15
+Raj
+nepal kathmandu
